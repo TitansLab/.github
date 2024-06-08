@@ -1,5 +1,5 @@
 <h1 align="center"> Hey Everyone! Welcome to <a href="https://github.com/TitansLab">TitansLab<a> <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"><h1>
-<img src="https://github.com/TitansLab/.github/blob/main/profile/Cover_Logo.jpg" height="10%"/>
+
 
 <h3 align="center">Check out our Repositories</h3>
 
